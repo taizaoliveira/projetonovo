@@ -1,0 +1,11 @@
+body{
+    background-color: lightsalmon;
+    color: white;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+    font-style: italic;
+}
